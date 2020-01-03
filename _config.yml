@@ -112,7 +112,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CNU CSE STUDENT"
   location         : "West Lafayette"
-  email            :
+  email            : "jisu.jung5@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
