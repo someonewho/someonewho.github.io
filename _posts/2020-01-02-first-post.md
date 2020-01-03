@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Jeesu Jung & Seungmin Sim's Project page!"
+title: "Welcome to Jeesu Jung & Seungmin Sim's Purdue Project page!"
 date: 2020-01-02 21:18
 categories: purdueProject
 ---
 
-## Welcome to Jeesu Jung & Seungmin Sim's Project page!
+## Welcome to Jeesu Jung & Seungmin Sim's Purdue Project page!
 
 **our Linkedin is here**  
 [Seungmin](https://www.linkedin.com/in/seungmin-sim-50a884186/)  
