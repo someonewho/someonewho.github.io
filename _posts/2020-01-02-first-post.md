@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jeesu Jung & Seungmin Sim's Project page!"
 date: 2020-01-02 21:18
-categories: introduce
+categories: purdueProject
 ---
 
 ## Welcome to Jeesu Jung & Seungmin Sim's Project page!
