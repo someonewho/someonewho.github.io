@@ -1,5 +1,5 @@
 ---
-title: "2020-01-07 "
+title: "2020-01-07 evening"
 date: 2020-01-07 18:00
 categories: purdueProject
 ---
