@@ -1,4 +1,4 @@
-﻿---
+---
 title: "2020-01-07"
 date: 2020-01-07 18:00
 categories: purdueProject
