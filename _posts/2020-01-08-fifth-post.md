@@ -1,4 +1,4 @@
-﻿---
+---
 title: "2020-01-08 morning"
 date: 2020-01-08 09:00
 categories: purdueProject
