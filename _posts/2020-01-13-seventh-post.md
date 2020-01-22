@@ -1,4 +1,4 @@
-﻿---
+---
 title: "2020-01-13 total"
 date: 2020-01-13 15:00
 categories: purdueProject
