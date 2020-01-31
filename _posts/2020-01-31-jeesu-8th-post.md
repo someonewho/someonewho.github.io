@@ -13,7 +13,7 @@ our project needs sensor circuit. and It needs to be solved following three thin
 3. the pressure: when gun fires, the barrel is goes really high pressure.  
     
 ***the 1st prototype***  
-<img src="https://user-images.githubusercontent.com/26360997/73576382-50abec80-4448-11ea-8fe3-da6e65853a08.png" width="450px" height="300px" title="prototype ver.1"></img><br/>  
+<img src="https://user-images.githubusercontent.com/26360997/73576382-50abec80-4448-11ea-8fe3-da6e65853a08.png" width="450px" height="300px" title="prototype ver.1"></img>  
 using propane, oxygen, pressure sensors  
 using raspberry pi, arduino  
   
@@ -22,7 +22,7 @@ wrong position of oxygen, propane sensors
 barrel must not be damaged  
   
 ***the 2nd prototype***  
-<img src="https://user-images.githubusercontent.com/26360997/73576448-789b5000-4448-11ea-9afa-2f698fc952dc.png" width="450px" height="300px" title="prototype ver.2"></img><br/>    
+<img src="https://user-images.githubusercontent.com/26360997/73576448-789b5000-4448-11ea-9afa-2f698fc952dc.png" width="450px" height="300px" title="prototype ver.2"></img>    
 adding the extra barrel  
 attach oxygen, propane sensors to the end of the barrel  
   
@@ -31,7 +31,7 @@ making extra barrel takes too long time
 Risk of pressure sensor in the barrel because of the heat & the pressure  
 
 ***the 3rd prototype***  
-<img src="https://user-images.githubusercontent.com/26360997/73576474-8a7cf300-4448-11ea-9791-1e83ab56c005.png" width="450px" height="300px" title="prototype ver.3"></img><br/>    
+<img src="https://user-images.githubusercontent.com/26360997/73576474-8a7cf300-4448-11ea-9791-1e83ab56c005.png" width="450px" height="300px" title="prototype ver.3"></img>    
 removing pressure sensor inside the barrel  
 attaching oxygen, propane sensors to the muzzle of the gun  
   
@@ -40,7 +40,7 @@ oxygen sensor's respond time is too slow(~15 sec)
 and we can't control respond  
   
 ***the 4th prototype***  
-<img src="https://user-images.githubusercontent.com/26360997/73576504-9799e200-4448-11ea-8c36-8fdd710e967b.png" width="450px" height="300px" title="prototype ver.4"></img><br/>    
+<img src="https://user-images.githubusercontent.com/26360997/73576504-9799e200-4448-11ea-8c36-8fdd710e967b.png" width="450px" height="300px" title="prototype ver.4"></img>    
 replacing oxygen sensor to propane sensor  
   
 problem is...  
