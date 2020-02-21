@@ -11,4 +11,3 @@ Furthermore, I cannot understand why that is the reasonable reason for throwing 
 In my standard, that couldn't be happened. Also saying about going Korea and certification is threaten for me. But actually, she doesn't have right.  
   
 I can't understand why she said I have to apologize to her. Then, how about my insult from her words saying in front of about 40 people?  
-I think that is really unfair, and bossy.
